@@ -22,6 +22,7 @@
 A [repo](https://github.com/felix-js-web/co-pilot-presentation) for resources of the talk.
 >
 > Passionate Java coder - holding all current Java certifications. and multiple AWS certifications.
+> Mostly spent my last 10+ years in Java EcoSystems and projects with Spring and Spring boot doing lot's of integrations
 > Recently which is last 3+ years also enjoying Node.js and React.js. with TypeScript.
 > if you have questions please feel free to reach me at felix.java.web@gmail.com or my linkedin profile.
 
