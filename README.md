@@ -1,5 +1,5 @@
 # co-pilot-presentation
-# Scaing with java MeetUp with Sasha Berezovska and 
+# Scaling with java MeetUp with Sasha Berezovska and 
 ## Agenda. Coding Smarter, Not Harder - Leveraging GitHub Copilot for Java.
 
 - Introduction to GitHub Copilot – principles.
