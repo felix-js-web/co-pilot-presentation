@@ -29,6 +29,18 @@ A [repo](https://github.com/felix-js-web/co-pilot-presentation) for resources of
 ### Abstract
 TODO
 
+resources and numbers
+
+https://resources.github.com/learn/pathways/copilot/essentials/measuring-the-impact-of-github-copilot/
+
+https://docs.sonarsource.com/sonarqube/latest/user-guide/concepts/#:~:text=soon%20as%20possible.-,Code%20smell,errors%20as%20they%20make%20changes.
+
+https://docs.github.com/en/copilot/managing-copilot/managing-github-copilot-in-your-organization/reviewing-github-copilot-activity-in-your-organization/reviewing-usage-data-for-github-copilot-in-your-organization
+
+https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/
+
+https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/
+
 ### Outline
 
 #### Overview
