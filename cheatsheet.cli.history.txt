@@ -1,0 +1,16 @@
+ 1087  cd spb-test
+ 1088  ls -la
+ 1089  git status
+ 1090  cd ..
+ 1091  rm -rf demo\ \(3\).zip
+ 1092  rm -rf spb-test
+ 1093  rm -rf demo
+ 1094  cd ~/Downloads
+ 1095  cp demo\ \(4\).zip ~/PROJECTS/
+ 1096  cd ~/PROJECTS
+ 1097  ls -la
+ 1098  unzip demo\ \(4\).zip
+ 1099  git clone https://github.com/felix-js-web/spb-test.git
+ 1100  cp -r demo/* spb-test
+ 1101  cd spb-test
+ 1102  ls -la
